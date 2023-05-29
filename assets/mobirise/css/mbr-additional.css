@@ -1438,6 +1438,23 @@ a {
     left: -1rem;
   }
 }
+.cid-tDNi8IKxwg {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tDNi8IKxwg .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tDNi8IKxwg .mbr-section-title,
+.cid-tDNi8IKxwg .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-tDNi8IKxwg .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-tDNb52NXRW .navbar-dropdown {
   position: relative !important;
 }
@@ -1768,20 +1785,37 @@ a {
     left: -1rem;
   }
 }
-.cid-tDNi8IKxwg {
+.cid-tFDuypIZ5F {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-tDNi8IKxwg .video-wrapper iframe {
+.cid-tFDuypIZ5F .video-wrapper iframe {
   width: 100%;
 }
-.cid-tDNi8IKxwg .mbr-section-title,
-.cid-tDNi8IKxwg .mbr-description {
+.cid-tFDuypIZ5F .mbr-section-title,
+.cid-tFDuypIZ5F .mbr-description {
   text-align: center;
 }
 @media (min-width: 992px) {
-  .cid-tDNi8IKxwg .text-wrapper {
+  .cid-tFDuypIZ5F .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tFCJweKKf7 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tFCJweKKf7 .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tFCJweKKf7 .mbr-section-title,
+.cid-tFCJweKKf7 .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-tFCJweKKf7 .text-wrapper {
     padding: 2rem;
   }
 }
@@ -2143,6 +2177,40 @@ a {
 }
 .cid-s48vrXhP0J .mbr-section-subtitle {
   text-align: left;
+}
+.cid-tFCI2p274L {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tFCI2p274L .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tFCI2p274L .mbr-section-title,
+.cid-tFCI2p274L .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-tFCI2p274L .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tFDveTdDS9 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tFDveTdDS9 .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tFDveTdDS9 .mbr-section-title,
+.cid-tFDveTdDS9 .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-tFDveTdDS9 .text-wrapper {
+    padding: 2rem;
+  }
 }
 .cid-tDNj6SaArU {
   padding-top: 6rem;
